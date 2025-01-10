@@ -1,0 +1,31 @@
+Season,SeasonType,TeamID,Key,City,Name,Conference,Division,Wins,Losses,Percentage,ConferenceWins,ConferenceLosses,DivisionWins,DivisionLosses,HomeWins,HomeLosses,AwayWins,AwayLosses,LastTenWins,LastTenLosses,PointsPerGameFor,PointsPerGameAgainst,Streak,GamesBack,StreakDescription,GlobalTeamID,ConferenceRank,DivisionRank
+2024,1,9,BOS,Boston,Celtics,Eastern,Atlantic,64,18,0.78,41,11,15,2,37,4,27,14,7,3,120.57,109.23,2,0.0,W2,20000009,0,0
+2024,1,6,NY,New York,Knicks,Eastern,Atlantic,50,32,0.61,35,17,12,5,27,14,23,18,6,4,112.79,108.2,5,14.0,W5,20000006,0,0
+2024,1,7,PHI,Philadelphia,76ers,Eastern,Atlantic,47,35,0.573,31,21,8,8,25,16,22,19,8,2,114.59,111.54,8,17.0,W8,20000007,1,0
+2024,1,8,BKN,Brooklyn,Nets,Eastern,Atlantic,32,50,0.39,24,28,5,11,20,21,12,29,5,5,110.36,113.25,-2,32.0,L2,20000008,1,0
+2024,1,10,TOR,Toronto,Raptors,Eastern,Atlantic,25,57,0.305,18,34,1,15,14,27,11,30,2,8,112.35,118.79,-4,39.0,L4,20000010,1,0
+2024,1,15,MIL,Milwaukee,Bucks,Eastern,Central,49,33,0.598,34,18,10,7,31,11,18,22,3,7,118.97,116.35,-2,15.0,L2,20000015,0,0
+2024,1,12,CLE,Cleveland,Cavaliers,Eastern,Central,48,34,0.585,31,21,11,5,26,15,22,19,4,6,112.63,110.21,-1,16.0,L1,20000012,0,0
+2024,1,13,IND,Indiana,Pacers,Eastern,Central,47,35,0.573,32,20,11,6,26,15,21,20,7,3,123.29,120.24,1,17.0,W1,20000013,0,0
+2024,1,11,CHI,Chicago,Bulls,Eastern,Central,39,43,0.476,22,29,7,9,20,21,19,22,5,5,112.26,113.7,-1,25.0,L1,20000011,1,0
+2024,1,14,DET,Detroit,Pistons,Eastern,Central,14,68,0.171,10,41,2,14,7,33,7,35,2,8,109.87,118.98,-1,50.0,L1,20000014,1,0
+2024,1,5,ORL,Orlando,Magic,Eastern,Southeast,47,35,0.573,32,20,9,7,29,12,18,23,5,5,110.46,108.43,1,17.0,W1,20000005,0,0
+2024,1,4,MIA,Miami,Heat,Eastern,Southeast,46,36,0.561,32,20,13,3,22,19,24,17,7,3,110.14,108.39,2,18.0,W2,20000004,1,0
+2024,1,3,ATL,Atlanta,Hawks,Eastern,Southeast,36,46,0.439,22,30,8,8,21,20,15,26,3,7,118.32,120.51,-6,28.0,L6,20000003,1,0
+2024,1,2,CHA,Charlotte,Hornets,Eastern,Southeast,21,61,0.256,14,38,6,10,11,30,10,31,3,7,106.58,116.82,1,43.0,W1,20000002,1,0
+2024,1,1,WAS,Washington,Wizards,Eastern,Southeast,15,67,0.183,11,41,4,12,7,34,8,33,1,9,113.74,123.03,-6,49.0,L6,20000001,1,0
+2024,1,18,OKC,Oklahoma City,Thunder,Western,Northwest,57,25,0.695,36,16,12,4,33,8,24,17,7,3,120.08,112.67,5,0.0,W5,20000018,0,0
+2024,1,20,DEN,Denver,Nuggets,Western,Northwest,57,25,0.695,33,19,10,6,33,8,24,17,6,4,114.85,109.59,1,0.0,W1,20000020,0,0
+2024,1,16,MIN,Minnesota,Timberwolves,Western,Northwest,56,26,0.683,37,15,12,4,30,11,26,15,6,4,112.97,106.52,-1,1.0,L1,20000016,0,0
+2024,1,17,UTA,Utah,Jazz,Western,Northwest,31,51,0.378,16,36,5,11,21,20,10,31,2,8,115.65,120.54,-1,26.0,L1,20000017,1,0
+2024,1,19,POR,Portland,Trail Blazers,Western,Northwest,21,61,0.256,8,44,1,15,11,30,10,31,2,8,106.36,115.39,-5,36.0,L5,20000019,1,0
+2024,1,28,LAC,Los Angeles,Clippers,Western,Pacific,51,31,0.622,30,22,9,7,25,16,26,15,6,4,115.62,112.34,-3,6.0,L3,20000028,0,0
+2024,1,29,PHO,Phoenix,Suns,Western,Pacific,49,33,0.598,29,23,9,9,25,16,24,17,7,3,116.24,113.18,3,8.0,W3,20000029,0,0
+2024,1,27,LAL,Los Angeles,Lakers,Western,Pacific,47,35,0.573,27,25,7,10,28,14,19,21,7,3,118.03,117.43,2,10.0,W2,20000027,1,0
+2024,1,26,GS,Golden State,Warriors,Western,Pacific,46,36,0.561,26,26,7,9,21,20,25,16,8,2,117.76,115.15,1,11.0,W1,20000026,1,0
+2024,1,30,SAC,Sacramento,Kings,Western,Pacific,46,36,0.561,30,22,10,7,24,17,22,19,4,6,116.56,114.81,1,11.0,W1,20000030,1,0
+2024,1,25,DAL,Dallas,Mavericks,Western,Southwest,50,32,0.61,31,21,11,5,25,16,25,16,7,3,117.85,115.64,-2,7.0,L2,20000025,0,0
+2024,1,23,NO,New Orleans,Pelicans,Western,Southwest,49,33,0.598,30,22,9,7,21,19,28,14,5,5,115.07,110.65,-1,8.0,L1,20000023,1,0
+2024,1,22,HOU,Houston,Rockets,Western,Southwest,41,41,0.5,28,24,9,7,27,14,14,27,4,6,114.32,113.2,2,16.0,W2,20000022,1,0
+2024,1,21,MEM,Memphis,Grizzlies,Western,Southwest,27,55,0.329,14,37,8,8,9,32,18,23,3,7,105.81,112.81,-5,30.0,L5,20000021,1,0
+2024,1,24,SA,San Antonio,Spurs,Western,Southwest,22,60,0.268,14,37,3,13,12,29,10,31,6,4,112.09,118.58,2,35.0,W2,20000024,1,0
